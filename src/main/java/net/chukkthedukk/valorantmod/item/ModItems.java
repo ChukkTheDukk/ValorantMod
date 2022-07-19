@@ -10,7 +10,7 @@ import net.minecraft.util.registry.Registry;
 public class ModItems {
 
     public static final Item CLASSIC_STANDARD = registerItem("classic_standard",
-        new Item(new FabricItemSettings().group(ItemGroup.MISC)));
+        new Item(new FabricItemSettings().group(ModItemGroup.CLASSIC)));
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registry.ITEM, new Identifier(ValorantMod.MOD_ID, name), item);

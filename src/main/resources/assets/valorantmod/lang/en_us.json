@@ -1,3 +1,6 @@
 {
-  "item.valorantmod.classic_standard": "Standard Classic"
+  "item.valorantmod.classic_standard": "Standard Classic",
+
+  "itemGroup.valorantmod.classic": "Classic"
+
 }
