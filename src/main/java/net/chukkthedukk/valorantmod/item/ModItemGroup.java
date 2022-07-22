@@ -14,5 +14,7 @@ public class ModItemGroup {
             () -> new ItemStack(ModItems.SHORTY_STANDARD));
     public static final ItemGroup FRENZY = FabricItemGroupBuilder.build(new Identifier(ValorantMod.MOD_ID, "frenzy"),
             () -> new ItemStack(ModItems.FRENZY_STANDARD));
+    public static final ItemGroup GHOST = FabricItemGroupBuilder.build(new Identifier(ValorantMod.MOD_ID, "ghost"),
+            () -> new ItemStack(ModItems.GHOST_STANDARD));
 
 }

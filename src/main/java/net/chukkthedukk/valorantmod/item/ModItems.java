@@ -15,7 +15,8 @@ public class ModItems {
             new Item(new FabricItemSettings().group(ModItemGroup.SHORTY)));
     public static final Item FRENZY_STANDARD = registerItem("frenzy_standard",
             new Item(new FabricItemSettings().group(ModItemGroup.FRENZY)));
-
+    public static final Item GHOST_STANDARD = registerItem("ghost_standard",
+            new Item(new FabricItemSettings().group(ModItemGroup.GHOST)));
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registry.ITEM, new Identifier(ValorantMod.MOD_ID, name), item);

@@ -2,9 +2,10 @@
   "item.valorantmod.classic_standard": "Standard Classic",
   "item.valorantmod.shorty_standard": "Standard Shorty",
   "item.valorantmod.frenzy_standard": "Standard Frenzy",
+  "item.valorantmod.ghost_standard": "Standard Ghost",
 
   "itemGroup.valorantmod.classic": "Classic",
   "itemGroup.valorantmod.shorty": "Shorty",
-  "itemGroup.valorantmod.frenzy": "Frenzy"
-
+  "itemGroup.valorantmod.frenzy": "Frenzy",
+  "itemGroup.valorantmod.ghost": "Ghost"
 }
