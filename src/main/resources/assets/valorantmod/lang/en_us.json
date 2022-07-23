@@ -3,9 +3,11 @@
   "item.valorantmod.shorty_standard": "Standard Shorty",
   "item.valorantmod.frenzy_standard": "Standard Frenzy",
   "item.valorantmod.ghost_standard": "Standard Ghost",
+  "item.valorantmod.sheriff_standard": "Standard Sheriff",
 
   "itemGroup.valorantmod.classic": "Classic",
   "itemGroup.valorantmod.shorty": "Shorty",
   "itemGroup.valorantmod.frenzy": "Frenzy",
-  "itemGroup.valorantmod.ghost": "Ghost"
+  "itemGroup.valorantmod.ghost": "Ghost",
+  "itemGroup.valorantmod.sheriff": "Sheriff"
 }
