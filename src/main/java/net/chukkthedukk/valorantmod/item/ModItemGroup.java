@@ -18,5 +18,7 @@ public class ModItemGroup {
             () -> new ItemStack(ModItems.GHOST_STANDARD));
     public static final ItemGroup SHERIFF = FabricItemGroupBuilder.build(new Identifier(ValorantMod.MOD_ID, "sheriff"),
             () -> new ItemStack(ModItems.SHERIFF_STANDARD));
+    public static final ItemGroup STINGER = FabricItemGroupBuilder.build(new Identifier(ValorantMod.MOD_ID, "stinger"),
+            () -> new ItemStack(ModItems.STINGER_STANDARD));
 
 }
