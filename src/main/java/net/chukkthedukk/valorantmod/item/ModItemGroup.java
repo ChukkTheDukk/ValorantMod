@@ -20,5 +20,7 @@ public class ModItemGroup {
             () -> new ItemStack(ModItems.SHERIFF_STANDARD));
     public static final ItemGroup STINGER = FabricItemGroupBuilder.build(new Identifier(ValorantMod.MOD_ID, "stinger"),
             () -> new ItemStack(ModItems.STINGER_STANDARD));
+    public static final ItemGroup SPECTRE = FabricItemGroupBuilder.build(new Identifier(ValorantMod.MOD_ID, "spectre"),
+            () -> new ItemStack(ModItems.SPECTRE_STANDARD));
 
 }

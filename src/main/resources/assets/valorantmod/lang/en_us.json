@@ -5,11 +5,13 @@
   "item.valorantmod.ghost_standard": "Standard Ghost",
   "item.valorantmod.sheriff_standard": "Standard Sheriff",
   "item.valorantmod.stinger_standard": "Standard Stinger",
+  "item.valorantmod.spectre_standard": "Standard Spectre",
 
   "itemGroup.valorantmod.classic": "Classic",
   "itemGroup.valorantmod.shorty": "Shorty",
   "itemGroup.valorantmod.frenzy": "Frenzy",
   "itemGroup.valorantmod.ghost": "Ghost",
   "itemGroup.valorantmod.sheriff": "Sheriff",
-  "itemGroup.valorantmod.stinger": "Stinger"
+  "itemGroup.valorantmod.stinger": "Stinger",
+  "itemGroup.valorantmod.spectre": "Spectre"
 }

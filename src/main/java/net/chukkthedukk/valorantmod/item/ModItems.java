@@ -21,6 +21,8 @@ public class ModItems {
             new Item(new FabricItemSettings().group(ModItemGroup.SHERIFF)));
     public static final Item STINGER_STANDARD = registerItem("stinger_standard",
             new Item(new FabricItemSettings().group(ModItemGroup.STINGER)));
+    public static final Item SPECTRE_STANDARD = registerItem("spectre_standard",
+            new Item(new FabricItemSettings().group(ModItemGroup.SPECTRE)));
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registry.ITEM, new Identifier(ValorantMod.MOD_ID, name), item);
