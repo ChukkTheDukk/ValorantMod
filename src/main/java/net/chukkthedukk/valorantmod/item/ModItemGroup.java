@@ -24,5 +24,7 @@ public class ModItemGroup {
             () -> new ItemStack(ModItems.SPECTRE_STANDARD));
     public static final ItemGroup BUCKY = FabricItemGroupBuilder.build(new Identifier(ValorantMod.MOD_ID, "bucky"),
             () -> new ItemStack(ModItems.BUCKY_STANDARD));
+    public static final ItemGroup JUDGE = FabricItemGroupBuilder.build(new Identifier(ValorantMod.MOD_ID, "judge"),
+            () -> new ItemStack(ModItems.JUDGE_STANDARD));
 
 }

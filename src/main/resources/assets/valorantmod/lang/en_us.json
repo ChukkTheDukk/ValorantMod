@@ -7,6 +7,7 @@
   "item.valorantmod.stinger_standard": "Standard Stinger",
   "item.valorantmod.spectre_standard": "Standard Spectre",
   "item.valorantmod.bucky_standard": "Standard Bucky",
+  "item.valorantmod.judge_standard": "Standard Judge",
 
   "itemGroup.valorantmod.classic": "Classic",
   "itemGroup.valorantmod.shorty": "Shorty",
@@ -15,5 +16,6 @@
   "itemGroup.valorantmod.sheriff": "Sheriff",
   "itemGroup.valorantmod.stinger": "Stinger",
   "itemGroup.valorantmod.spectre": "Spectre",
-  "itemGroup.valorantmod.bucky": "Bucky"
+  "itemGroup.valorantmod.bucky": "Bucky",
+  "itemGroup.valorantmod.judge": "Judge"
 }

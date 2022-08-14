@@ -25,6 +25,8 @@ public class ModItems {
             new Item(new FabricItemSettings().group(ModItemGroup.SPECTRE).maxCount(1)));
     public static final Item BUCKY_STANDARD = registerItem("bucky_standard",
             new Item(new FabricItemSettings().group(ModItemGroup.BUCKY).maxCount(1)));
+    public static final Item JUDGE_STANDARD = registerItem("judge_standard",
+            new Item(new FabricItemSettings().group(ModItemGroup.JUDGE).maxCount(1)));
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registry.ITEM, new Identifier(ValorantMod.MOD_ID, name), item);
