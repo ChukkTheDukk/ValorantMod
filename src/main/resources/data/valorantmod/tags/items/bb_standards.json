@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "valorantmod:classic_standard",
+    "valorantmod:frenzy_standard",
+    "valorantmod:ghost_standard",
+    "valorantmod:sheriff_standard",
+    "valorantmod:stinger_standard",
+    "valorantmod:spectre_standard",
+    "valorantmod:bucky_standard",
+    "valorantmod:judge_standard"
+  ]
+}

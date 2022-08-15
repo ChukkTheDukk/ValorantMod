@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "valorantmod:classic_standard",
+    "valorantmod:spectre_standard",
+    "valorantmod:bucky_standard",
+    "valorantmod:judge_standard"
+  ]
+}
